@@ -1,0 +1,17 @@
+{
+  "name": "learn-backend",
+  "version": "1.0.0",
+  "description": "nodeDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Afranzio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.4"
+  }
+}
